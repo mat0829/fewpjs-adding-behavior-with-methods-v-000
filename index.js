@@ -22,3 +22,12 @@ class Dog {
   }
 }
 
+class Bird {
+  constructor(name, sex) {
+    this.name = name
+    this.sex = sex
+  }
+  
+  (if this.name == male)
+    return `It's me! ${this.name}`
+}
