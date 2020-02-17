@@ -28,7 +28,7 @@ class Bird {
     this.sex = sex
   }
   
-  if (this.name == male) {
+  if (sex == male) {
     return `It's me! ${this.name}`
   }
 }
