@@ -6,5 +6,5 @@ class Cat {
     this.sex = sex
   }
   
-  func
+  speak
 }
