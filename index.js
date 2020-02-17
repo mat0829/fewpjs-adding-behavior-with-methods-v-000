@@ -1,3 +1,10 @@
 // Your code here
 
-class 
+class Cat {
+  constructor(name, sex) {
+    this.name = name
+    this.sex = sex
+  }
+  
+  func
+}
